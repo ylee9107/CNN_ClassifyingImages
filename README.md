@@ -46,3 +46,5 @@ Diagram of the CNN model used:
 
 ## Summary:
 
+This project has been a good one, where I was able to revise what I had learnt about CNN and its internal functions. The project also covered aspects such as extracting features from the dataset images, build a CNN model and applying to classify 10 classes of clothing articles. After which, the model performance would be evaluated and improved upon by introducing regularisation techniques to overcome the issue of overfitting. 
+
