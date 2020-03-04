@@ -25,6 +25,7 @@ Diagram of an example CNN model:
 ![CNN architecture 2](https://github.com/ylee9107/CNN_ClassifyingImages/blob/master/CNN%20Architecture%20Images/CNN%20architecture%202.png)
 
 Diagram of the CNN model used:
+
 ![CNN_model_2](https://github.com/ylee9107/CNN_ClassifyingImages/blob/master/CNN_model_2.png)
 
 ## Required Libraries:
