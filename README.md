@@ -20,9 +20,9 @@ The Zalando Research data obtained for this project can be found from: https://g
 ## Sanpshot:
 
 Diagram of an example CNN model:
-Source:
+- Source:https://www.mathworks.com/help/deeplearning/ug/introduction-to-convolutional-neural-networks.html
 
-![CNN architecture 2]()
+![CNN architecture 2](https://github.com/ylee9107/CNN_ClassifyingImages/blob/master/CNN%20Architecture%20Images/CNN%20architecture%202.png)
 
 Diagram of the CNN model used:
 ![CNN_model_2]()
